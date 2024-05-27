@@ -32,3 +32,10 @@ Question 7.
 a)Who are the most valuable customers and what do they purchase?
 
 Data Transformation/Cleaning 
+Data was efficiently cleaned and transformed with Microsoft Excel and Power Query Editor of Power BI.Some of the applied steps included
+-Removing all outliers using conditional formatting.
+-Changing the data types and removing duplicates from the data.
+
+Data Visualization
+Using Power BI, all problem statements were answered which is all included in the dashboard, the dashboard is interactive and user friendly. A visualization story was also developed and included on my dashboard.
+
