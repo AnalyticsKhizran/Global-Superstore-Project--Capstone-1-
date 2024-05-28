@@ -1,6 +1,9 @@
-![IMG_2875](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/f2167b24-eefd-4206-843c-b6aa1754375b)
-![IMG_2874](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/4ba68648-22cb-49fb-9592-2163821a1b7c)
-![IMG_2873](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/895c3fef-5377-4cea-b782-f7b4ade9a2ab)
+![IMG_2873](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/3016421c-07b1-4e0e-93f2-8dde8522ca0b)
+![IMG_2874](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/4de55e3d-b8f3-4a89-b108-2cb8f688fade)
+![IMG_2875](https://github.com/AnalyticsKhizran/Global-Superstore-Project--Capstone-1-/assets/170935325/fea53a6a-bfa4-46ed-8770-cacbff0ee25d)
+
+
+
 # Global-Superstore-Project--Capstone-1-
 INTRODUCTION
 
