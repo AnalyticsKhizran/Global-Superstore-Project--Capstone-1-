@@ -4,10 +4,10 @@
 
 
 
-# Global-Superstore-Project--Capstone-1-
+# Market Trend Analysis for E-Commerce
 INTRODUCTION
 
-First Capstone Project, After completing my data analysis training with Digitaley Drive. The project is an assessment based to test my skills in data analysis. 
+The project is an assessment based on market trends for an E-commerce business, insightful solutions were proffered. 
 
 Problem Statement 
 Question 1.
